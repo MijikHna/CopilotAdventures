@@ -8,7 +8,9 @@
                 "gitHub.copilot-chat",
                 "gitHub.vscode-pull-request-github",
                 "ms-dotnettools.csdevkit",
-                "ms-python.python"
+                "ms-python.python",
+                "ms-vscode.cpptools-extension-pack",
+				"vscodevim.vim"
             ]
         }
     }
